@@ -16,7 +16,7 @@ public class Switch_Case_Angiee {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        System.out.println("Menú Secreto, por favor ingresar el número de su elección (1-5): ");
+        System.out.println("Menú Secreto, por favor ingresar el número de su elección (1-7): ");
         
         int dia = scanner.nextInt();
         
