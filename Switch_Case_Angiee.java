@@ -28,7 +28,7 @@ public class Switch_Case_Angiee {
                 case 5 -> System.out.println("Empanadas");
                 case 6 -> System.out.println("Galletas con leche");
                 case 7 -> System.out.println("Arroz chino");
-                default -> System.out.println("Número de dia invalido");
+                default -> System.out.println("Número de menú invalido");
         }
 
     }
